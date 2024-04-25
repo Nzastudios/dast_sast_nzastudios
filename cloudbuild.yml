@@ -40,4 +40,4 @@ artifacts:
   objects:
     location: 'gs://gcpdevsecops-reports-nza'
     paths:
-      - zap_report.html
+      - zap_report_2024.html
